@@ -1,6 +1,6 @@
 export { default as borderRadius } from './border-radius';
 export { default as borders } from './borders';
-export { default as colors } from './colors';
+export * from './colors';
 export { default as fontColor } from './font-color';
 export { default as fontFamily } from './font-family';
 export { default as fontSize } from './font-size';

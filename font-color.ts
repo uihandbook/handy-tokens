@@ -1,16 +1,11 @@
 import { rgba } from 'handy-functions';
-import colors from './colors';
+import { colors } from './colors';
 import opacity from './opacity';
 
 export default {
-  white: colors.white,
-  lightest: rgba(colors.white, opacity._3),
-  lighter: rgba(colors.white, opacity._5),
-  light: rgba(colors.white, opacity._8),
-  base: colors.light,
-
-  primary: colors.primary,
-  secondary: colors.secondary,
-  success: colors.success,
-  danger: colors.danger
+  white: colors.light_100,
+  lightest: rgba(colors.black_100, opacity._8),
+  lighter: colors.black_100,
+  light: colors.black_500,
+  base: colors.black_900
 };
