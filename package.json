@@ -1,0 +1,27 @@
+{
+  "name": "handy-tokens",
+  "version": "1.0.1",
+  "description": "UI Handbook HandyUI Tokens",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/uihandbook/handy-tokens.git"
+  },
+  "keywords": [
+    "uihandbook",
+    "uikit",
+    "tokens"
+  ],
+  "author": "ui-handbook",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/uihandbook/handy-tokens/issues"
+  },
+  "homepage": "https://github.com/uihandbook/handy-tokens#readme",
+  "dependencies": {
+    "handy-functions": "git+ssh://git@github.com:uihandbook/handy-functions.git"
+  }
+}
