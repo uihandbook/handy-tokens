@@ -47,6 +47,7 @@ export const colors = {
   light_500: '#FCFDFF',
   light_700: '#F6F6F9',
   light_900: '#F3F2F9',
+  light_1000: '#D3D1DE',
 
   black_100: '#D9DAE3',
   black_500: '#C0C1D1',
@@ -70,7 +71,7 @@ export const statusColors = {
   info_500: colors.septenary_500,
   info_900: colors.septenary_900,
 
-  neutral_100: colors.light_500,
-  neutral_500: colors.light_700,
-  neutral_900: colors.light_900
+  neutral_100: colors.light_700,
+  neutral_500: colors.light_900,
+  neutral_900: colors.light_1000
 };
