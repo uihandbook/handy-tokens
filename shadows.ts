@@ -7,6 +7,7 @@ export default {
   large: '0 5px 7px',
   larger: '0 10px 10px',
   largest: '0 15px 20px',
+  jumbo: '0 30px 50px',
   
   focus: '0 0 0 0.2rem'
 };
