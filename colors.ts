@@ -68,5 +68,9 @@ export const statusColors = {
 
   info_100: colors.septenary_100,
   info_500: colors.septenary_500,
-  info_900: colors.septenary_900
+  info_900: colors.septenary_900,
+
+  neutral_100: colors.light_500,
+  neutral_500: colors.light_700,
+  neutral_900: colors.light_900
 };
