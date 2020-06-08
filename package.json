@@ -1,5 +1,5 @@
 {
-  "name": "handy-tokens",
+  "name": "@uihandbook/handy-tokens",
   "version": "1.0.2",
   "description": "UI Handbook HandyUI Tokens",
   "main": "index.ts",
