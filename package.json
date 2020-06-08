@@ -1,6 +1,6 @@
 {
   "name": "@uihandbook/handy-tokens",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "UI Handbook HandyUI Tokens",
   "main": "index.ts",
   "scripts": {
@@ -22,6 +22,6 @@
   },
   "homepage": "https://github.com/uihandbook/handy-tokens#readme",
   "dependencies": {
-    "handy-functions": "git+ssh://git@github.com:uihandbook/handy-functions.git"
+    "@uihandbook/handy-functions": "^0.0.1"
   }
 }
